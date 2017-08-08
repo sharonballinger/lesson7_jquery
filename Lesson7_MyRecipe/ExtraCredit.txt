@@ -1,0 +1,11 @@
+Author: Sharon Marie ballinger
+Date: 3 August 2017
+File: myRecipe.html, myRecipe.js.
+
+Things changed:
+
+The sections animated up/down when clicked.
+The "CLICK ME" button when clicked hides the list and the button changes text to "LETS GET COOKING".
+When hovering over the list in "instructions" the items change color.
+When hovering over the titles they change blue.
+
