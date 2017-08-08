@@ -13,7 +13,7 @@ Sharon Ballinger
 An introduction to jQuery
 
 ### View Project:
-https://sharonballinger.github.io/lesson7_jquery/ballinger_lesson7
+https://sharonballinger.github.io/lesson7_jquery/Lesson7_Assignment/
 
 ### Lessons Learned in the Assignment:
 #### 1. jQuery and Javascript
